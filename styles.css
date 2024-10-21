@@ -19,6 +19,7 @@
     color:chocolate
 }
 .image-class {
+    border-width: 75px;
     border-color: #aa2020;
 }
 .form-class {
