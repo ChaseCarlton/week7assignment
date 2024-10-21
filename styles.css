@@ -1,1 +1,32 @@
-tbvt
+.body-class {
+    background-color: #98a4e9;
+}
+.header-class {
+    background-color: rgb(253, 239, 219);
+    color: #4e3cb6;
+}
+.nav {
+    background-color: #ec2727;
+    font-weight: bold;
+}
+.title-class {
+    color: #23b918 ;
+}
+.section-title-class {
+    color: #f9a7c9
+}
+.text-class {
+    color:chocolate
+}
+.image-class {
+    border-color: rgb(253, 239, 219);
+}
+.form-class {
+    background-color: #ec2727;
+}
+.button-class {
+    background-color: #ec2727;
+}
+.footer-class {
+    background-color: #a454ef;
+}
