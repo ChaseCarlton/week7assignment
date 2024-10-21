@@ -22,10 +22,12 @@
     border: 10px solid #aa2020; 
 }
 .form-class {
-    background-color: #ec2727;
+    background-color: #4e4c4c;
+    
 }
 .button-class {
     background-color: #ec2727;
+    padding-left: 15px;
 }
 .footer-class {
     background-color: #56d67d;
